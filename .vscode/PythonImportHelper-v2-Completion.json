@@ -1,0 +1,416 @@
+[
+    {
+        "label": "A",
+        "kind": 5,
+        "importPath": "Ambientacao.1001 - Extremamente Básico",
+        "description": "Ambientacao.1001 - Extremamente Básico",
+        "peekOfCode": "A = int(input('Digite um valor: '))\nB = int(input('Digite outro valor: '))\nX = A + B\nprint(f\"X = {X}\")",
+        "detail": "Ambientacao.1001 - Extremamente Básico",
+        "documentation": {}
+    },
+    {
+        "label": "B",
+        "kind": 5,
+        "importPath": "Ambientacao.1001 - Extremamente Básico",
+        "description": "Ambientacao.1001 - Extremamente Básico",
+        "peekOfCode": "B = int(input('Digite outro valor: '))\nX = A + B\nprint(f\"X = {X}\")",
+        "detail": "Ambientacao.1001 - Extremamente Básico",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "Ambientacao.1001 - Extremamente Básico",
+        "description": "Ambientacao.1001 - Extremamente Básico",
+        "peekOfCode": "X = A + B\nprint(f\"X = {X}\")",
+        "detail": "Ambientacao.1001 - Extremamente Básico",
+        "documentation": {}
+    },
+    {
+        "label": "print(f\"X",
+        "kind": 5,
+        "importPath": "Ambientacao.1001 - Extremamente Básico",
+        "description": "Ambientacao.1001 - Extremamente Básico",
+        "peekOfCode": "print(f\"X = {X}\")",
+        "detail": "Ambientacao.1001 - Extremamente Básico",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "Ambientacao.1002 - Área do Círculo",
+        "description": "Ambientacao.1002 - Área do Círculo",
+        "peekOfCode": "n = 3.14159\nraio = float(input())\narea = n*(raio**2)\nprint(f'A={area:.4f}')",
+        "detail": "Ambientacao.1002 - Área do Círculo",
+        "documentation": {}
+    },
+    {
+        "label": "raio",
+        "kind": 5,
+        "importPath": "Ambientacao.1002 - Área do Círculo",
+        "description": "Ambientacao.1002 - Área do Círculo",
+        "peekOfCode": "raio = float(input())\narea = n*(raio**2)\nprint(f'A={area:.4f}')",
+        "detail": "Ambientacao.1002 - Área do Círculo",
+        "documentation": {}
+    },
+    {
+        "label": "area",
+        "kind": 5,
+        "importPath": "Ambientacao.1002 - Área do Círculo",
+        "description": "Ambientacao.1002 - Área do Círculo",
+        "peekOfCode": "area = n*(raio**2)\nprint(f'A={area:.4f}')",
+        "detail": "Ambientacao.1002 - Área do Círculo",
+        "documentation": {}
+    },
+    {
+        "label": "A",
+        "kind": 5,
+        "importPath": "Ambientacao.1003 - Soma Simples",
+        "description": "Ambientacao.1003 - Soma Simples",
+        "peekOfCode": "A = int(input())\nB = int(input())\nsoma = A + B\nprint(f'SOMA = {soma}')",
+        "detail": "Ambientacao.1003 - Soma Simples",
+        "documentation": {}
+    },
+    {
+        "label": "B",
+        "kind": 5,
+        "importPath": "Ambientacao.1003 - Soma Simples",
+        "description": "Ambientacao.1003 - Soma Simples",
+        "peekOfCode": "B = int(input())\nsoma = A + B\nprint(f'SOMA = {soma}')",
+        "detail": "Ambientacao.1003 - Soma Simples",
+        "documentation": {}
+    },
+    {
+        "label": "soma",
+        "kind": 5,
+        "importPath": "Ambientacao.1003 - Soma Simples",
+        "description": "Ambientacao.1003 - Soma Simples",
+        "peekOfCode": "soma = A + B\nprint(f'SOMA = {soma}')",
+        "detail": "Ambientacao.1003 - Soma Simples",
+        "documentation": {}
+    },
+    {
+        "label": "print(f'SOMA",
+        "kind": 5,
+        "importPath": "Ambientacao.1003 - Soma Simples",
+        "description": "Ambientacao.1003 - Soma Simples",
+        "peekOfCode": "print(f'SOMA = {soma}')",
+        "detail": "Ambientacao.1003 - Soma Simples",
+        "documentation": {}
+    },
+    {
+        "label": "A",
+        "kind": 5,
+        "importPath": "Ambientacao.1004 - Produto Simples",
+        "description": "Ambientacao.1004 - Produto Simples",
+        "peekOfCode": "A = int(input())\nB = int(input())\nPROD = A * B\nprint(f'PROD = {PROD}')",
+        "detail": "Ambientacao.1004 - Produto Simples",
+        "documentation": {}
+    },
+    {
+        "label": "B",
+        "kind": 5,
+        "importPath": "Ambientacao.1004 - Produto Simples",
+        "description": "Ambientacao.1004 - Produto Simples",
+        "peekOfCode": "B = int(input())\nPROD = A * B\nprint(f'PROD = {PROD}')",
+        "detail": "Ambientacao.1004 - Produto Simples",
+        "documentation": {}
+    },
+    {
+        "label": "PROD",
+        "kind": 5,
+        "importPath": "Ambientacao.1004 - Produto Simples",
+        "description": "Ambientacao.1004 - Produto Simples",
+        "peekOfCode": "PROD = A * B\nprint(f'PROD = {PROD}')",
+        "detail": "Ambientacao.1004 - Produto Simples",
+        "documentation": {}
+    },
+    {
+        "label": "print(f'PROD",
+        "kind": 5,
+        "importPath": "Ambientacao.1004 - Produto Simples",
+        "description": "Ambientacao.1004 - Produto Simples",
+        "peekOfCode": "print(f'PROD = {PROD}')",
+        "detail": "Ambientacao.1004 - Produto Simples",
+        "documentation": {}
+    },
+    {
+        "label": "A",
+        "kind": 5,
+        "importPath": "Ambientacao.1005 - Média 1",
+        "description": "Ambientacao.1005 - Média 1",
+        "peekOfCode": "A = float(input())\nB = float(input())\nMEDIA = (A*3.5 + B*7.5)/11\nprint(f'MÉDIA = {MEDIA:.5f}')",
+        "detail": "Ambientacao.1005 - Média 1",
+        "documentation": {}
+    },
+    {
+        "label": "B",
+        "kind": 5,
+        "importPath": "Ambientacao.1005 - Média 1",
+        "description": "Ambientacao.1005 - Média 1",
+        "peekOfCode": "B = float(input())\nMEDIA = (A*3.5 + B*7.5)/11\nprint(f'MÉDIA = {MEDIA:.5f}')",
+        "detail": "Ambientacao.1005 - Média 1",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA",
+        "kind": 5,
+        "importPath": "Ambientacao.1005 - Média 1",
+        "description": "Ambientacao.1005 - Média 1",
+        "peekOfCode": "MEDIA = (A*3.5 + B*7.5)/11\nprint(f'MÉDIA = {MEDIA:.5f}')",
+        "detail": "Ambientacao.1005 - Média 1",
+        "documentation": {}
+    },
+    {
+        "label": "print(f'MÉDIA",
+        "kind": 5,
+        "importPath": "Ambientacao.1005 - Média 1",
+        "description": "Ambientacao.1005 - Média 1",
+        "peekOfCode": "print(f'MÉDIA = {MEDIA:.5f}')",
+        "detail": "Ambientacao.1005 - Média 1",
+        "documentation": {}
+    },
+    {
+        "label": "trabalhos",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1125 - Professor. mas_é só 0.5",
+        "description": "Avaliacao Preparatoria 2(PRE2).1125 - Professor. mas_é só 0.5",
+        "peekOfCode": "trabalhos = float(input( ))\nprova = float(input( ))\nmedia = (trabalhos + prova) / 2\nif media >= 6.00:\n    print('aprovado')\nelse:\n    media = (trabalhos + 10) / 2\n    if media >= 6.0:\n        print('talvez com a sub')  \n    else:",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1125 - Professor. mas_é só 0.5",
+        "documentation": {}
+    },
+    {
+        "label": "prova",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1125 - Professor. mas_é só 0.5",
+        "description": "Avaliacao Preparatoria 2(PRE2).1125 - Professor. mas_é só 0.5",
+        "peekOfCode": "prova = float(input( ))\nmedia = (trabalhos + prova) / 2\nif media >= 6.00:\n    print('aprovado')\nelse:\n    media = (trabalhos + 10) / 2\n    if media >= 6.0:\n        print('talvez com a sub')  \n    else:\n        print('reprovado')",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1125 - Professor. mas_é só 0.5",
+        "documentation": {}
+    },
+    {
+        "label": "media",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1125 - Professor. mas_é só 0.5",
+        "description": "Avaliacao Preparatoria 2(PRE2).1125 - Professor. mas_é só 0.5",
+        "peekOfCode": "media = (trabalhos + prova) / 2\nif media >= 6.00:\n    print('aprovado')\nelse:\n    media = (trabalhos + 10) / 2\n    if media >= 6.0:\n        print('talvez com a sub')  \n    else:\n        print('reprovado')",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1125 - Professor. mas_é só 0.5",
+        "documentation": {}
+    },
+    {
+        "label": "nt",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1125 - _Professor. mas é só 0.5",
+        "description": "Avaliacao Preparatoria 2(PRE2).1125 - _Professor. mas é só 0.5",
+        "peekOfCode": "nt = float(input())\nnp = float(input())\nmedia_final = (nt + np ) / 2\nnota_sub = (2 * 6) - nt\nif media_final >= 6:\n    print('aprovado')\nelif 0 <= nota_sub <= 10:\n    print('talvez com a sub')\nelse:\n    print('reprovado')",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1125 - _Professor. mas é só 0.5",
+        "documentation": {}
+    },
+    {
+        "label": "np",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1125 - _Professor. mas é só 0.5",
+        "description": "Avaliacao Preparatoria 2(PRE2).1125 - _Professor. mas é só 0.5",
+        "peekOfCode": "np = float(input())\nmedia_final = (nt + np ) / 2\nnota_sub = (2 * 6) - nt\nif media_final >= 6:\n    print('aprovado')\nelif 0 <= nota_sub <= 10:\n    print('talvez com a sub')\nelse:\n    print('reprovado')",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1125 - _Professor. mas é só 0.5",
+        "documentation": {}
+    },
+    {
+        "label": "media_final",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1125 - _Professor. mas é só 0.5",
+        "description": "Avaliacao Preparatoria 2(PRE2).1125 - _Professor. mas é só 0.5",
+        "peekOfCode": "media_final = (nt + np ) / 2\nnota_sub = (2 * 6) - nt\nif media_final >= 6:\n    print('aprovado')\nelif 0 <= nota_sub <= 10:\n    print('talvez com a sub')\nelse:\n    print('reprovado')",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1125 - _Professor. mas é só 0.5",
+        "documentation": {}
+    },
+    {
+        "label": "nota_sub",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1125 - _Professor. mas é só 0.5",
+        "description": "Avaliacao Preparatoria 2(PRE2).1125 - _Professor. mas é só 0.5",
+        "peekOfCode": "nota_sub = (2 * 6) - nt\nif media_final >= 6:\n    print('aprovado')\nelif 0 <= nota_sub <= 10:\n    print('talvez com a sub')\nelse:\n    print('reprovado')",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1125 - _Professor. mas é só 0.5",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1142 - Tabuada_For",
+        "description": "Avaliacao Preparatoria 2(PRE2).1142 - Tabuada_For",
+        "peekOfCode": "n = int(input())\nfor i in range (1, 11):\n    print(f'{n} x {i} = {n*i}')",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1142 - Tabuada_For",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1142 - Tabuada_While",
+        "description": "Avaliacao Preparatoria 2(PRE2).1142 - Tabuada_While",
+        "peekOfCode": "n = int(input())\ni = 1\nwhile i < 11:\n    print(f'{n} x {i} = {n*i}')\n    i += 1",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1142 - Tabuada_While",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1142 - Tabuada_While",
+        "description": "Avaliacao Preparatoria 2(PRE2).1142 - Tabuada_While",
+        "peekOfCode": "i = 1\nwhile i < 11:\n    print(f'{n} x {i} = {n*i}')\n    i += 1",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1142 - Tabuada_While",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1164 - Triângulo alfabético_For",
+        "description": "Avaliacao Preparatoria 2(PRE2).1164 - Triângulo alfabético_For",
+        "peekOfCode": "n = int(input())\nletra = 'A'\nfor linha in range(1, n+1):\n    print(letra * linha)\n    letra = chr(ord(letra) +1)",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1164 - Triângulo alfabético_For",
+        "documentation": {}
+    },
+    {
+        "label": "letra",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1164 - Triângulo alfabético_For",
+        "description": "Avaliacao Preparatoria 2(PRE2).1164 - Triângulo alfabético_For",
+        "peekOfCode": "letra = 'A'\nfor linha in range(1, n+1):\n    print(letra * linha)\n    letra = chr(ord(letra) +1)",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1164 - Triângulo alfabético_For",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1164 - Triângulo alfabético_While",
+        "description": "Avaliacao Preparatoria 2(PRE2).1164 - Triângulo alfabético_While",
+        "peekOfCode": "n = int(input())\nletra = 'A'\nlinha = 1\nwhile linha < n+1:\n    print(letra * linha)\n    letra = chr(ord(letra) + 1)\n    linha +=1",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1164 - Triângulo alfabético_While",
+        "documentation": {}
+    },
+    {
+        "label": "letra",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1164 - Triângulo alfabético_While",
+        "description": "Avaliacao Preparatoria 2(PRE2).1164 - Triângulo alfabético_While",
+        "peekOfCode": "letra = 'A'\nlinha = 1\nwhile linha < n+1:\n    print(letra * linha)\n    letra = chr(ord(letra) + 1)\n    linha +=1",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1164 - Triângulo alfabético_While",
+        "documentation": {}
+    },
+    {
+        "label": "linha",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1164 - Triângulo alfabético_While",
+        "description": "Avaliacao Preparatoria 2(PRE2).1164 - Triângulo alfabético_While",
+        "peekOfCode": "linha = 1\nwhile linha < n+1:\n    print(letra * linha)\n    letra = chr(ord(letra) + 1)\n    linha +=1",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1164 - Triângulo alfabético_While",
+        "documentation": {}
+    },
+    {
+        "label": "total_vic",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1165 - Doação_While",
+        "description": "Avaliacao Preparatoria 2(PRE2).1165 - Doação_While",
+        "peekOfCode": "total_vic = 0.0\nvic_coin = float(input())\nwhile vic_coin != -1.0:\n    total_vic += vic_coin\n    vic_coin = float(input())\ntotal_reais = total_vic * 2.50\nprint(f'VC$ {total_vic:.2f}')   \nprint(f'R$ {total_reais:.2f}')",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1165 - Doação_While",
+        "documentation": {}
+    },
+    {
+        "label": "vic_coin",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1165 - Doação_While",
+        "description": "Avaliacao Preparatoria 2(PRE2).1165 - Doação_While",
+        "peekOfCode": "vic_coin = float(input())\nwhile vic_coin != -1.0:\n    total_vic += vic_coin\n    vic_coin = float(input())\ntotal_reais = total_vic * 2.50\nprint(f'VC$ {total_vic:.2f}')   \nprint(f'R$ {total_reais:.2f}')",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1165 - Doação_While",
+        "documentation": {}
+    },
+    {
+        "label": "total_reais",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1165 - Doação_While",
+        "description": "Avaliacao Preparatoria 2(PRE2).1165 - Doação_While",
+        "peekOfCode": "total_reais = total_vic * 2.50\nprint(f'VC$ {total_vic:.2f}')   \nprint(f'R$ {total_reais:.2f}')",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1165 - Doação_While",
+        "documentation": {}
+    },
+    {
+        "label": "bissexto",
+        "kind": 2,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_for",
+        "description": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_for",
+        "peekOfCode": "def bissexto(ano):\n    return (ano % 4 ==0 and ano % 100 != 0) or ano % 400 == 0\ninicio = int(input())\nfim = int(input())\nqtd_bissextos = 0\nfor ano in range(inicio, fim+1):\n    if bissexto(ano):\n        print(ano)\n        qtd_bissextos += 1\nprint(f'bissextos: {qtd_bissextos}')",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_for",
+        "documentation": {}
+    },
+    {
+        "label": "inicio",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_for",
+        "description": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_for",
+        "peekOfCode": "inicio = int(input())\nfim = int(input())\nqtd_bissextos = 0\nfor ano in range(inicio, fim+1):\n    if bissexto(ano):\n        print(ano)\n        qtd_bissextos += 1\nprint(f'bissextos: {qtd_bissextos}')",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_for",
+        "documentation": {}
+    },
+    {
+        "label": "fim",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_for",
+        "description": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_for",
+        "peekOfCode": "fim = int(input())\nqtd_bissextos = 0\nfor ano in range(inicio, fim+1):\n    if bissexto(ano):\n        print(ano)\n        qtd_bissextos += 1\nprint(f'bissextos: {qtd_bissextos}')",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_for",
+        "documentation": {}
+    },
+    {
+        "label": "qtd_bissextos",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_for",
+        "description": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_for",
+        "peekOfCode": "qtd_bissextos = 0\nfor ano in range(inicio, fim+1):\n    if bissexto(ano):\n        print(ano)\n        qtd_bissextos += 1\nprint(f'bissextos: {qtd_bissextos}')",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_for",
+        "documentation": {}
+    },
+    {
+        "label": "bissexto",
+        "kind": 2,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_while",
+        "description": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_while",
+        "peekOfCode": "def bissexto(ano):\n    return (ano % 4 == 0 and ano % 100 != 0) or ano % 400 == 0\ninicio = int(input())\nfim = int(input())\nqtd_bissextos = 0\nano = inicio\nwhile ano <= fim:\n    if bissexto(ano):\n        print(ano)\n        qtd_bissextos +=1",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_while",
+        "documentation": {}
+    },
+    {
+        "label": "inicio",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_while",
+        "description": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_while",
+        "peekOfCode": "inicio = int(input())\nfim = int(input())\nqtd_bissextos = 0\nano = inicio\nwhile ano <= fim:\n    if bissexto(ano):\n        print(ano)\n        qtd_bissextos +=1\n    ano +=1\nprint(f'bissextos: {qtd_bissextos}')",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_while",
+        "documentation": {}
+    },
+    {
+        "label": "fim",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_while",
+        "description": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_while",
+        "peekOfCode": "fim = int(input())\nqtd_bissextos = 0\nano = inicio\nwhile ano <= fim:\n    if bissexto(ano):\n        print(ano)\n        qtd_bissextos +=1\n    ano +=1\nprint(f'bissextos: {qtd_bissextos}')",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_while",
+        "documentation": {}
+    },
+    {
+        "label": "qtd_bissextos",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_while",
+        "description": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_while",
+        "peekOfCode": "qtd_bissextos = 0\nano = inicio\nwhile ano <= fim:\n    if bissexto(ano):\n        print(ano)\n        qtd_bissextos +=1\n    ano +=1\nprint(f'bissextos: {qtd_bissextos}')",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_while",
+        "documentation": {}
+    },
+    {
+        "label": "ano",
+        "kind": 5,
+        "importPath": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_while",
+        "description": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_while",
+        "peekOfCode": "ano = inicio\nwhile ano <= fim:\n    if bissexto(ano):\n        print(ano)\n        qtd_bissextos +=1\n    ano +=1\nprint(f'bissextos: {qtd_bissextos}')",
+        "detail": "Avaliacao Preparatoria 2(PRE2).1167 - Anos bissextos_while",
+        "documentation": {}
+    }
+]
